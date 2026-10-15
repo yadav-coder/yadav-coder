@@ -121,7 +121,27 @@ I practise Data Structures & Algorithms to strengthen my problem-solving skills 
 
 [Explore my repositories](https://github.com/yadav-coder?tab=repositories)
 
-## 📊 My GitHub Analytics
+## 🧠 LeetCode Analytics
+
+<div align="center">
+
+<a href="https://leetcode.com/surajyadav_34/">
+  <img
+    src="https://leetcard.jacoblin.cool/surajyadav_34?theme=dark&font=Baloo_2&ext=none"
+    width="65%"
+    alt="LeetCode Statistics"
+  />
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/surajyadav_34/">
+  <img src="https://img.shields.io/badge/LeetCode-View%20Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile"/>
+</a>
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
@@ -130,21 +150,33 @@ I practise Data Structures & Algorithms to strengthen my problem-solving skills 
 <table>
 <tr>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true"
+  width="100%"
+  alt="GitHub Statistics"
+/>
+
 </td>
 <td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Most Used Languages"/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+  width="100%"
+  alt="Most Used Languages"
+/>
+
 </td>
 </tr>
 </table>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Contribution Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-coder&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-coder&theme=tokyo-night&hide_border=true&area=true"
+  width="100%"
+  alt="GitHub Contribution Graph"
+/>
 
 </div>
 *Stats are provided by third-party services and may occasionally be unavailable or delayed.*
