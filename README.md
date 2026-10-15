@@ -37,7 +37,7 @@ I'm **Suraj Yadav**, a B.Tech Computer Science & Engineering student at **Parul 
 
 ### Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring" alt="Node.js, Express, Flask, Django and Spring"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,expressjs" alt="Node.js, Express"/>
 </p>
 
 ### Databases
