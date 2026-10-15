@@ -42,12 +42,12 @@ I'm **Suraj Yadav**, a B.Tech Computer Science & Engineering student at **Parul 
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="MongoDB, MySQL, PostgreSQL and Firebase"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="MongoDB, MySQL, PostgreSQL "/>
 </p>
 
 ### Tools, Cloud & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" alt="Git, GitHub, Docker, AWS, Linux, VS Code and Postman"/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman" alt="Git, GitHub, Docker, AWS, VS Code and Postman"/>
 </p>
 
 ### AI & LLM Applications
