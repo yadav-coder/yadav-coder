@@ -121,15 +121,43 @@ I practise Data Structures & Algorithms to strengthen my problem-solving skills 
 
 [Explore my repositories](https://github.com/yadav-coder?tab=repositories)
 
-## 📊 GitHub Overview
+## 📊 My GitHub Analytics
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
-  <br/><br/>
-  <img width="90%" src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-</div>
 
+  <!-- GitHub Statistics -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+  />
+
+  <!-- Most Used Languages -->
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Most Used Languages"
+  />
+
+  <br/><br/>
+
+  <!-- Contribution Streak -->
+  <img
+    width="85%"
+    src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+
+  <br/><br/>
+
+  <!-- Contribution Activity Graph -->
+  <img
+    width="95%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-coder&theme=tokyo-night&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+
+</div>
 *Stats are provided by third-party services and may occasionally be unavailable or delayed.*
 
 ## 🎯 Current Goals
