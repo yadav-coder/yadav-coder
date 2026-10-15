@@ -123,39 +123,28 @@ I practise Data Structures & Algorithms to strengthen my problem-solving skills 
 
 ## 📊 My GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <div align="center">
 
-  <!-- GitHub Statistics -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-    alt="GitHub Statistics"
-  />
+<table>
+<tr>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="100%" alt="GitHub Stats"/>
+</td>
+<td width="50%" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="100%" alt="Most Used Languages"/>
+</td>
+</tr>
+</table>
 
-  <!-- Most Used Languages -->
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Most Used Languages"
-  />
+<br/>
 
-  <br/><br/>
+<img src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true" width="85%" alt="GitHub Contribution Streak"/>
 
-  <!-- Contribution Streak -->
-  <img
-    width="85%"
-    src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
+<br/><br/>
 
-  <br/><br/>
-
-  <!-- Contribution Activity Graph -->
-  <img
-    width="95%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-coder&theme=tokyo-night&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yadav-coder&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Activity"/>
 
 </div>
 *Stats are provided by third-party services and may occasionally be unavailable or delayed.*
