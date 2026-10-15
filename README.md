@@ -1,211 +1,151 @@
-::: {align="center"}
-`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:06B6D4&height=230&section=header&text=Suraj%20Yadav&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20in%20Progress%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=56&descSize=17" width="100%" alt="Suraj Yadav profile banner"/>`{=html}
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:172554,100:06B6D4&height=230&section=header&text=Suraj%20Yadav&fontSize=54&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=56&descSize=17" width="100%" alt="Suraj Yadav profile banner" />
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+useful+full-stack+applications;Exploring+LLMs%2C+RAG+%26+AI-powered+products;Practising+DSA+and+core+CS+fundamentals;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing introduction" />
+  <br/><br/>
+  <a href="https://github.com/yadav-coder"><img src="https://img.shields.io/badge/GitHub-yadav--coder-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/Graduation-2027-0891B2?style=for-the-badge" alt="Graduation 2027"/>
+</div>
 
-`<a href="https://readme-typing-svg.demolab.com">`{=html}
-`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=67E8F9&center=true&vCenter=true&width=720&lines=Building+useful+full-stack+applications;Exploring+LLMs%2C+RAG+%26+AI-powered+products;Practising+DSA+and+core+CS+fundamentals;Learn+%E2%80%A2+Build+%E2%80%A2+Improve" alt="Typing introduction"/>`{=html}
-`</a>`{=html}
-
-`<br/>`{=html}
-
-`<a href="https://github.com/yadav-coder">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-yadav--coder-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/suraj-yadav-00b65a2b5/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}
-`</a>`{=html}
-`<img src="https://img.shields.io/badge/Graduation-2027-0891B2?style=for-the-badge" alt="Graduation 2027"/>`{=html}
-:::
-
-------------------------------------------------------------------------
+---
 
 ## 👋 About Me
 
-I'm **Suraj Yadav**, a B.Tech Computer Science & Engineering student at
-**Parul University**, graduating in 2027. I enjoy turning ideas into
-practical applications, learning how systems work, and solving problems
-through code.
+I'm **Suraj Yadav**, a B.Tech Computer Science & Engineering student at **Parul University**, graduating in 2027. I enjoy turning ideas into practical applications, learning how systems work, and solving problems through code.
 
--   💻 Interested in software engineering and full-stack development
--   🌐 Building with JavaScript, React, Node.js, Express, and databases
--   🤖 Exploring AI/ML, large language models (LLMs), and
-    retrieval-augmented generation (RAG)
--   🧠 Practising Data Structures & Algorithms and core CS fundamentals
--   🛠️ Interested in API design, authentication, database modelling, and
-    deployment
--   🌱 Always learning, building, and improving
+- 💻 Interested in software engineering and full-stack development
+- 🌐 Building with JavaScript, React, Node.js, Express, and databases
+- 🤖 Exploring AI/ML, large language models (LLMs), and retrieval-augmented generation (RAG)
+- 🧠 Practising Data Structures & Algorithms and core CS fundamentals
+- 🛠️ Interested in API design, authentication, database modelling, and deployment
+- 🌱 Always learning, building, and improving
 
-> **My approach:** Understand the problem, build a useful solution, test
-> it, and keep improving it.
+> **My approach:** Understand the problem, build a useful solution, test it, and keep improving it.
 
 ## 🧰 Technology Toolkit
 
 ### Languages
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript" alt="Java, Python, C++, C, JavaScript and TypeScript"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,typescript" alt="Java, Python, C++, C, JavaScript and TypeScript"/>
 </p>
-```
+
 ### Frontend
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React and Tailwind CSS"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind" alt="HTML, CSS, React and Tailwind CSS"/>
 </p>
-```
+
 ### Backend
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring" alt="Node.js, Express, Flask, Django and Spring"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,spring" alt="Node.js, Express, Flask, Django and Spring"/>
 </p>
-```
+
 ### Databases
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="MongoDB, MySQL, PostgreSQL and Firebase"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,firebase" alt="MongoDB, MySQL, PostgreSQL and Firebase"/>
 </p>
-```
+
 ### Tools, Cloud & DevOps
-
-```{=html}
 <p>
-```
-`<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" alt="Git, GitHub, Docker, AWS, Linux, VS Code and Postman"/>`{=html}
-```{=html}
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,postman" alt="Git, GitHub, Docker, AWS, Linux, VS Code and Postman"/>
 </p>
-```
+
 ### AI & LLM Applications
-
-```{=html}
 <p>
-```
-`<img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-7C3AED?style=for-the-badge" alt="AI and ML"/>`{=html}
-`<img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-2563EB?style=for-the-badge" alt="LLMs"/>`{=html}
-`<img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0F766E?style=for-the-badge" alt="RAG"/>`{=html}
-`<img src="https://img.shields.io/badge/Prompting%20%26%20AI%20APIs-Hands--on-475569?style=for-the-badge" alt="AI APIs"/>`{=html}
-```{=html}
+  <img src="https://img.shields.io/badge/AI%20%2F%20ML-Exploring-7C3AED?style=for-the-badge" alt="AI and ML"/>
+  <img src="https://img.shields.io/badge/LLMs-Large%20Language%20Models-2563EB?style=for-the-badge" alt="LLMs"/>
+  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0F766E?style=for-the-badge" alt="RAG"/>
+  <img src="https://img.shields.io/badge/AI%20APIs-Hands--on-475569?style=for-the-badge" alt="AI APIs"/>
 </p>
-```
-## 🚀 Projects
+
+## 🚀 Featured Projects
 
 ### 💸 Smart Expense Analyzer
+A full-stack expense management project focused on helping users track expenses and understand spending patterns, with AI/ML-oriented features.
 
-A full-stack expense management project focused on helping users track
-expenses and understand spending patterns, with AI/ML-oriented features.
-
-**Focus areas:** Expense tracking · Financial insights · Full-stack
-integration · AI-assisted analysis
+- Expense tracking and management
+- Financial insights and spending analysis
+- AI-assisted analysis and prediction exploration
 
 **Stack:** MERN, AI/ML
 
-[Explore my repositories
-→](https://github.com/yadav-coder?tab=repositories)
+[Browse my repositories](https://github.com/yadav-coder?tab=repositories)
 
 ### 📚 Smart Learning Platform
+An education-focused web application designed to organise learning features in one place.
 
-An education-focused web application built to organise learning features
-in one place.
-
-**Focus areas:** Full-stack development · API integration ·
-Database-backed features · User experience
+- Full-stack application development
+- API and database integration
+- Student-oriented learning features
 
 **Stack:** MERN
 
-[Open Smart Learning Platform
-→](https://github.com/yadav-coder/smt-learning)
+[Open Smart Learning Platform](https://github.com/yadav-coder/smt-learning)
 
 ### 🎓 Study Planner & AI Doubt Solver
+An education project combining study planning, AI-powered question answering, and progress tracking.
 
-An education product combining study planning, AI-powered question
-answering, and progress tracking.
+- Study plan management
+- AI doubt solving and saved doubt history
+- Daily progress tracking and learning insights
 
-**Focus areas:** Study plans · AI doubt history · Daily progress ·
-Learning insights
+**Stack:** React, Node.js, Express, MongoDB, Gemini API
 
-**Stack:** React · Node.js · Express · MongoDB · Gemini API
-
-[Explore my repositories
-→](https://github.com/yadav-coder?tab=repositories)
+[Browse my repositories](https://github.com/yadav-coder?tab=repositories)
 
 ### 🏢 Mini ERP & CRM
+A business application focused on customers, products, inventory, sales workflows, and role-based access.
 
-A business application covering customers, products, inventory, sales
-workflows, and role-based access.
+- JWT authentication and role-based authorization
+- Customer and product management
+- PostgreSQL-backed inventory and sales workflows
 
-**Focus areas:** JWT authentication · Role-based authorization ·
-PostgreSQL · Inventory and sales workflows
+**Stack:** TypeScript, Express, PostgreSQL, JWT
 
-**Stack:** TypeScript · Express · PostgreSQL · JWT
+[Browse my repositories](https://github.com/yadav-coder?tab=repositories)
 
-[Explore my repositories
-→](https://github.com/yadav-coder?tab=repositories)
-
-> **Project links:** The links above point to my profile or the known
-> Smart Learning repository. I'll replace the repository-list links with
-> direct project links as each repository is confirmed and public.
+> Replace any repository-list links with direct URLs to the corresponding public repositories when ready. Only describe features that are implemented.
 
 ## 🧠 Problem Solving
 
-I practise DSA to strengthen problem-solving skills and prepare for
-software engineering interviews.
+I practise Data Structures & Algorithms to strengthen my problem-solving skills and prepare for software engineering interviews.
 
--   Arrays and strings
--   Hashing, two pointers, and sliding window
--   Linked lists, stacks, and queues
--   Sorting and binary search
--   Trees and graphs
--   Recursion and backtracking
--   Greedy algorithms and dynamic programming
--   SQL and database fundamentals
+- Arrays and strings
+- Hashing, two pointers, and sliding window
+- Linked lists, stacks, and queues
+- Sorting and binary search
+- Trees and graphs
+- Recursion and backtracking
+- Greedy algorithms and dynamic programming
+- SQL and database fundamentals
 
-[View my GitHub repositories
-→](https://github.com/yadav-coder?tab=repositories)
+[Explore my repositories](https://github.com/yadav-coder?tab=repositories)
 
-## 📈 GitHub Overview
+## 📊 GitHub Overview
 
-::: {align="center"}
-`<img height="175" src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats"/>`{=html}
-`<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>`{=html}
+<div align="center">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=yadav-coder&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yadav-coder&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages"/>
+  <br/><br/>
+  <img width="90%" src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
+</div>
 
-`<br/>`{=html}
+*Stats are provided by third-party services and may occasionally be unavailable or delayed.*
 
-`<img width="90%" src="https://streak-stats.demolab.com?user=yadav-coder&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>`{=html}
-:::
+## 🎯 Current Goals
 
-*Stats are provided by third-party services and may occasionally be
-unavailable or delayed.*
-
-## 🎯 What I'm Working Toward
-
--   Strengthening DSA and computer science fundamentals
--   Building maintainable full-stack applications
--   Developing useful AI-powered features with LLMs and RAG
--   Improving backend design, API security, and database modelling
--   Learning cloud deployment and DevOps practices
--   Contributing to projects that solve real problems
+- Strengthen DSA and core computer science fundamentals
+- Build maintainable full-stack applications
+- Develop useful AI-powered applications with LLMs and RAG
+- Improve backend design, API security, and database modelling
+- Learn cloud deployment and DevOps workflows
+- Contribute to projects that solve real problems
 
 ## 🤝 Let's Connect
 
-::: {align="center"}
-`<a href="https://github.com/yadav-coder">`{=html}
-`<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile"/>`{=html}
-`</a>`{=html}
-`<a href="https://www.linkedin.com/in/suraj-yadav-00b65a2b5/">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile"/>`{=html}
-`</a>`{=html}
-
-`<br/>`{=html}`<br/>`{=html}
-
-**Thanks for visiting!** Explore my repositories, share feedback, and
-let's keep building.
-:::
+<div align="center">
+  <a href="https://github.com/yadav-coder"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile"/></a>
+  <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
+  <br/><br/>
+  **Thanks for visiting!** Explore my repositories, share feedback, and let's keep building.
+</div>
