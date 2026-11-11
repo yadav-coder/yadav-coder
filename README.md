@@ -105,6 +105,24 @@ A business application focused on customers, products, inventory, sales workflow
 [Browse my repositories](https://github.com/yadav-coder?tab=repositories)
 
 > Replace any repository-list links with direct URLs to the corresponding public repositories when ready. Only describe features that are implemented.
+---
+
+## 🏆 Certifications & Achievements
+
+I believe in continuous learning and continuously strengthening my technical knowledge through professional courses and certifications.
+
+<div align="center">
+
+### 📜 My Certifications
+
+| Certification | Certificate |
+|:---|:---:|
+| 🌐 Computer Networks and Internet Protocol | [📄 View Certificate](https://drive.google.com/file/d/1QsMpQ1LjE64DwvmyE9OviCt6heSpr5Zk/view?usp=sharing) |
+| 📡 Internet of Things (IoT) | [📄 View Certificate](https://drive.google.com/file/d/1u-oh6IPDthamkN23h1XS91seNKe52fX9/view?usp=drive_link) |
+
+</div>
+
+---
 
 ## 🧠 Problem Solving
 
